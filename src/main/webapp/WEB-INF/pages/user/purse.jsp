@@ -12,7 +12,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>我的钱包</title>
-<link rel="icon" href="<%=basePath%>img/logo.jpg" type="image/x-icon" />
+	<link rel="icon" href="<%=basePath%>img/logo.png" type="image/x-icon"/>
 <link rel="stylesheet" href="<%=basePath%>css/font-awesome.min.css" />
 <link rel="stylesheet" href="<%=basePath%>css/userhome.css" />
 <link rel="stylesheet" href="<%=basePath%>css/user.css" />

@@ -10,7 +10,7 @@
 <head>
     <meta charset="UTF-8">
     <title>个人设置</title>
-    <link rel="icon" href="<%=basePath%>img/logo.jpg" type="image/x-icon"/>
+    <link rel="icon" href="<%=basePath%>img/logo.png" type="image/x-icon"/>
     <link rel="stylesheet" href="<%=basePath%>css/font-awesome.min.css" />
     <link rel="stylesheet" href="<%=basePath%>css/userhome.css" />
     <link rel="stylesheet" href="<%=basePath%>css/user.css" />

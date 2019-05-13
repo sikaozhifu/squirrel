@@ -10,7 +10,7 @@
 <head>
     <meta charset="utf-8" />
     <title>中北二手工坊</title>
-    <link rel="icon" href="<%=basePath%>img/logo.jpg" type="image/x-icon"/>
+    <link rel="icon" href="<%=basePath%>img/logo.png" type="image/x-icon"/>
     <link rel="stylesheet" href="<%=basePath%>css/index.css" />
     <script type="text/javascript" src="<%=basePath%>js/jquery.js" ></script>
     <script type="text/javascript" src="<%=basePath%>js/materialize.min.js" ></script>

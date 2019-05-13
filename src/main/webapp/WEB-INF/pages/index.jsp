@@ -6,7 +6,7 @@
 <html>
 <head>
     <title>${item.goods.user.school}二手工坊</title>
-    <link rel="icon" href="<%=basePath%>img/logo.jpg" type="image/x-icon"/>
+    <link rel="icon" href="<%=basePath%>img/logo.png" type="image/x-icon"/>
     <META HTTP-EQUIV="Refresh" CONTENT="0;URL=<%=basePath%>goods/homeGoods">
 </head>
 <body>
